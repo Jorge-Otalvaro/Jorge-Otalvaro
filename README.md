@@ -1,6 +1,10 @@
 
 # Hi, I'm Jorge Otalvaro! 👋
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Jorge-Otalvaro&label=Profile%20views&color=0e75b6&style=flat" alt="Jorge-Otalvaro"/>
+</p>
+
 ## 🚀 About Me
 Soy un desarrollador web full stack apasionado por la programación, me encanta aprender cosas nuevas y compartir mis conocimientos.
 
