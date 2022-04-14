@@ -8,7 +8,7 @@
 ## 🚀 About Me
 Soy un desarrollador web full stack apasionado por la programación, me encanta aprender cosas nuevas y compartir mis conocimientos.
 
-### 🧠 ¿Qué estoy aprendiendo actualmente?
+### 🧠 I'm currently learning...
 
 En esta sección encontrarás las tecnologías que esté aprendiendo y lo que más me está llamando la atención. Estoy actualizando constantemente 👀
 
